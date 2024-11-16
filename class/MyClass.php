@@ -4,6 +4,9 @@ namespace class;
 
 class MyClass
 {
-    public $new;
     public $one;
+    public $other;
+    public $new;
+    public $three;
+
 }
