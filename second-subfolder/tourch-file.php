@@ -1,1 +1,3 @@
-Tourch file text
+<?php
+
+echo "Tourch file text";
