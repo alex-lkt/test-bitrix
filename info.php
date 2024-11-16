@@ -1,1 +1,5 @@
-File was created directly on Github
+<?php
+
+$var = "File was created directly on Github";
+
+var_dump($var);
